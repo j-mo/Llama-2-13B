@@ -5,6 +5,7 @@ extra_gated_description: >-
   granted access from Meta. Please visit the [Meta website](https://ai.meta.com/resources/models-and-libraries/llama-downloads) and accept our
   license terms and acceptable use policy before submitting this form. Requests
   will be processed in 1-2 days.
+extra_gated_prompt: "**Your Hugging Face account email address MUST match the email you provide on the Meta website, or your request will not be approved.**"
 extra_gated_button_content: Submit
 extra_gated_fields:
   I agree to share my name, email address and username with Meta and confirm that I have already been granted download access on the Meta website: checkbox
